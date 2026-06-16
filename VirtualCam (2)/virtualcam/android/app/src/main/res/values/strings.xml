@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VirtualCam</string>
+
+    <string name="hint_ip_address">PC IP address</string>
+    <string name="hint_port">Port</string>
+
+    <string name="action_connect">Connect</string>
+    <string name="action_disconnect">Disconnect</string>
+
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connecting">Connecting…</string>
+    <string name="status_connected_fmt">Connected · %1$d ms</string>
+    <string name="status_error_fmt">Error: %1$s</string>
+    <string name="status_invalid_input">Enter a valid IP address and port</string>
+    <string name="status_permission_denied">Camera permission is required to register the virtual camera</string>
+
+    <string name="footer_hint">Stream stays active in the background once connected</string>
+</resources>
